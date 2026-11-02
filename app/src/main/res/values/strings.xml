@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">EmpowerApp</string>
+    <string name="logo_desc">App Logo</string>
+    <string name="app_title">EMPOWER</string>
+    <string name="app_subtitle">CONTROL PANEL</string>
+    <string name="status_title">System Status</string>
+    <string name="status_desc">All systems operational</string>
+    <string name="security_title">Security Alert</string>
+    <string name="security_desc">2 new notifications</string>
+    <string name="btn_launch">LAUNCH DASHBOARD</string>
+    <string name="btn_settings">SETTINGS</string>
+    <string name="btn_info">VIEW INFO</string>
+</resources>
